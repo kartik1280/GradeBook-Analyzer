@@ -58,6 +58,11 @@ Kabir,54
 | Srikar  | 69.00 | D     |
 | Kabir   | 54.00 | F     |
 
+## Screenshots
+![gradebook_result csv](https://github.com/user-attachments/assets/04f45bf4-101e-4b0a-93f4-49a02f029a5b)
+![student_marks csv](https://github.com/user-attachments/assets/04d19aab-380b-4daa-8387-d5484e60199b)
+
+
 ## Author
 
 Kartik Sharma  
